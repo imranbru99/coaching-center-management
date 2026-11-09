@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "coaching-center-management",
+  "description": "Coaching Center Management — Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Coaching center software for batches, teachers, attendance, fee dues, and SMS reminders. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/coaching-center-management"
+}
